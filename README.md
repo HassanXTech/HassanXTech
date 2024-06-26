@@ -2,7 +2,7 @@
 
 ### &nbsp; 🕵🏻 About Me
 
-🟡&nbsp;&nbsp; A seasoned professional with a robust background in software engineering and full-stack development, complemented by specialized expertise in Web Developing. <br>🟡&nbsp;&nbsp; I am adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>🟡With a deep understanding of both front-end and back-end paradigms, I excel in crafting comprehensive applications that meet modern business needs. <br>🟡&nbsp;&nbsp; As a blockchain expert, I bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in Developing.<br><br>
+🟡&nbsp;&nbsp; A seasoned professional with a robust background in software engineering and full-stack development, complemented by specialized expertise in Web Developing. <br>🟡&nbsp;&nbsp; I am adept at leading complex projects, from conception through deployment, ensuring scalable, secure, and efficient solutions. <br>🟡&nbsp;&nbsp;With a deep understanding of both front-end and back-end paradigms, I excel in crafting comprehensive applications that meet modern business needs. <br>🟡&nbsp;&nbsp; As a blockchain expert, I bring a wealth of knowledge in decentralized systems, smart contracts, and consensus algorithms, positioning them at the forefront of innovation in Developing.<br><br>
 
 <hr/>
 
