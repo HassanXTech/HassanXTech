@@ -100,7 +100,7 @@
 ## ✨ Discord Profile
 <div align="center">
   <a width="100%" href="https://discord.com/users/1136625769628581928"  target="_blank">
-    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-2/922120042651451423.png">
+    <img align="mid" height="100%" width="100%" style="margin: 0 10px 0 0;" alt=" " src="https://discord.c99.nl/widget/theme-2/1136625769628581928.png">
   </a>
 </div>
 
