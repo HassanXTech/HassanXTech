@@ -2,12 +2,7 @@
 
 # 💫 Hi There:
 🔭 I’m currently working on discord bots & Web applications<br>🌱 I’m currently learning python & js<br>📫 How to reach me hsnshafique090@gmail.com<br>⚡ Fun fact i think i am funny
-# 💫 Github Ids:
- ```js
-> - anomusly
-```
 
-## 🧑‍💻 Contact Me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rp4H4YPvwJ)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hsx.esticxs)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=D14836&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:hsnshafique090@gmail.com)
