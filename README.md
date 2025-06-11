@@ -1,7 +1,16 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=anomusly&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/appujet)
 
-# 💫 Hi There:
-🔭 I’m currently working on discord bots & Web applications<br>🌱 I’m currently learning python & js<br>📫 How to reach me hsnshafique090@gmail.com<br>⚡ Fun fact i think i am funny
+# Hi there 👋
+
+I'm Hassan Shafique , a passionate self-taught developer from Pakistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+- 🔭 I’m currently working on my personal projects
+- 🌱 I’m currently learning React, Node.js, Express
+- 👯 I’m looking to collaborate on Open source projects
+- 💬 Ask me about anything
+- 📫 How to reach me: [Gmail](mailto:hsnshafique090@gmail.com)
+- 😄 Pronouns: He/Him)
+- ⚡ Fun fact: I love to play games and watch movies
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rp4H4YPvwJ)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hsx.esticxs)
