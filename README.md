@@ -1,4 +1,6 @@
-# 💫 About Me:
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=anomusly&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/appujet)
+
+# 💫 Hi There:
 🔭 I’m currently working on discord bots & Web applications<br>🌱 I’m currently learning python & js<br>📫 How to reach me hsnshafique090@gmail.com<br>⚡ Fun fact i think i am funny
 # 💫 Github Ids:
  ```js
