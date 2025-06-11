@@ -73,6 +73,9 @@ I'm Hassan Shafique , a passionate self-taught developer from Pakistan. My passi
     <td>
       <img alt="Cloudflare-Workers" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="50" height="50" />
     </td>
+   <td>
+  <img alt="Arch Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="50" height="50" />
+    </td>
     <td>
       <img alt="Netlify" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="50" height="50" />
     </td>
