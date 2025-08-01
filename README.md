@@ -21,7 +21,7 @@
 
 ```
 
-           .             ​ anomusly@world 
+           .             ​ anomus@world 
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : Hassan Shafque 
         .lllll.          ​ Kernel : NERD-DEV 2.29 
