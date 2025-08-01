@@ -24,11 +24,11 @@
            .             ​ axenide@world 
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : Hassan Shafque 
-        .lllll.          ​ Kernel : NERD-DEV 3.14 
+        .lllll.          ​ Kernel : NERD-DEV 2.29 
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : fish
      .lcc'   'ccc.       ​ Uptime : 17 years
-    .ccc'     'cc:.      ​ CPU : NeuraCore AX-1
+    .ccc'     'cc:.      ​ CPU : PhotonFlux AY-01
    .cccc'     'c:;..    └───────────────────────────────┘ 
   ."'             '".     A   N   O   M   U   S   L    Y    火 
 
