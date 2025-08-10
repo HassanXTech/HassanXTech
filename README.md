@@ -1,20 +1,16 @@
-<!-- Axenide GitHub Profile -->
+<!-- HassanXTech GitHub Profile -->
 <div align="justify">
 
 <!-- Profile -->
 <p align="left"><strong><samp><i>「</i></samp></strong></p>
   <p align="center">
     <samp>
-      <b>
-        👽 Hello world!
-      </b>
+      <b>👽 Hello world!</b>
       <br>
-        Future computer engineer, technologist, passionate about science and how the universe works. I create web apps, softwares, videos, animations, and designs. Fun fact: I think i'm funny!!.
-      <br>
-      <br>
-      <b>
-        ~ Hassan Tech (@AnomusLY) ~
-      </b>
+      I’m <b>Hassan Tech (@AHassanXTech)</b>, a future computer engineer, technologist, and someone deeply passionate about science and how the universe works. 
+      I create web apps, software, videos, animations, and designs — and yes, I like to think I’m funny! 😄
+      <br><br>
+      Outside of coding, you’ll find me watching anime, experimenting with design ideas, exploring new tech trends, or geeking out over how things work.
     </samp>
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
@@ -36,13 +32,17 @@ arch in ~
   λ echo "Stay Determined!"
 ```
 
+### 🌟 Fun Facts
+- I don’t like coffee or tea.
+- Demon Slayer is my favorite anime.
+- I love blending tech with creativity.
+- Always chasing that “aha!” moment.
+
 <p align="center">
 <samp>
   <sup>
-    <b>
-    <i>Please consider giving me a tip. :)</i>
-    <br>
-    <a href="https://ko-fi.com/anomusly">❤️ Ko-Fi</a> |
+    <b><i>If you like my work, consider supporting me. :)</i></b><br>
+    <a href="https://ko-fi.com/anomusly">❤️ Ko-Fi</a>
   </sup>
 </samp>
 </p>
