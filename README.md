@@ -17,7 +17,7 @@
 
 ```
 
-           .             ​ anomus@world 
+           .             ​ hassan@world 
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : Hassan Tech 
         .lllll.          ​ Kernel : NERD-DEV 2.29 
