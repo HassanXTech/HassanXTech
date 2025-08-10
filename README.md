@@ -32,12 +32,6 @@ arch in ~
   λ echo "Stay Determined!"
 ```
 
-### 🌟 Fun Facts
-- I don’t like coffee or tea.
-- Demon Slayer is my favorite anime.
-- I love blending tech with creativity.
-- Always chasing that “aha!” moment.
-
 <p align="center">
 <samp>
   <sup>
