@@ -13,7 +13,7 @@
       <br>
       <br>
       <b>
-        ~ Hassan Shafique (@AnomusLY) ~
+        ~ Hassan Tech (@AnomusLY) ~
       </b>
     </samp>
   </p>
@@ -23,7 +23,7 @@
 
            .             ​ anomus@world 
           .c.           ┌───────────────────────────────┐ 
-         .ccc.           ​ OS : Hassan Shafque 
+         .ccc.           ​ OS : Hassan Tech 
         .lllll.          ​ Kernel : NERD-DEV 2.29 
        ..;'olll.         ​ WM : Hyprland 
       .dolllcccl.        ​ Shell : fish
