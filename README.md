@@ -36,7 +36,7 @@ arch in ~
 <samp>
   <sup>
     <b><i>If you like my work, consider supporting me. :)</i></b><br>
-    <a href="https://ko-fi.com/anomusly">❤️ Ko-Fi</a>
+    <a href="https://ko-fi.com/HassanTech">❤️ Ko-Fi</a>
   </sup>
 </samp>
 </p>
