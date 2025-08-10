@@ -7,7 +7,7 @@
     <samp>
       <b>👽 Hello world!</b>
       <br>
-      I’m <b>Hassan Tech (@AHassanXTech)</b>, a future computer engineer, technologist, and someone deeply passionate about science and how the universe works. 
+      I’m <b>Hassan Tech (@HassanXTech)</b>, a future computer engineer, technologist, and someone deeply passionate about science and how the universe works. 
       I create web apps, software, videos, animations, and designs — and yes, I like to think I’m funny! 😄
       <br><br>
       Outside of coding, you’ll find me watching anime, experimenting with design ideas, exploring new tech trends, or geeking out over how things work.
