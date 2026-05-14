@@ -10,7 +10,7 @@
       <br>
       I’m <b>Hassan Tech (@HassanXTech)</b>, a future computer engineer, technologist, and someone deeply passionate about science and how the universe works.
       <br><br>
-      Founder & CTO of <b>[Axilon](https://axilon.app)</b> — a development agency, services platform, and a tools marketplace.
+      Founder & CTO of <b><a href="https://axilon.app">Axilon</a></b> — a development agency, services platform, and a tools marketplace.
       <br><br>
       I create web apps, software, videos, animations, and designs — and yes, I like to think I’m funny! 😄
       <br><br>
@@ -26,7 +26,7 @@
     .lllll.          Kernel : NERD-DEV 2.29 
    ..;'olll.         WM : Hyprland 
   .dolllcccl.        Shell : fish
- .lcc'   'ccc.       Uptime : 17 years
+ .lcc'   'ccc.       Uptime : 18 years
 .ccc'     'cc:.      CPU : PhotonFlux AY-01
 
 .cccc'     'c:;..     Role : Founder & CTO @ Axilon
